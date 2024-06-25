@@ -1,0 +1,33 @@
+*{
+    direction: rtl;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.text-larger{
+    font-size: 60px;
+}
+
+
+.header{
+    background-image: url("../assets/black-lines.jpg");
+    background-position: 50 50;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.image-back{
+    background-image: url("../assets/2.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.fixed-width{
+    width: 30px;
+    margin-top: 55px;
+}
